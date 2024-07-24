@@ -1,8 +1,10 @@
-## For Assignment 2, I would recommend you do it using PyCharm instead of Jupyter Notebook. 
+## Hey it's me, Emil! 
+For Assignment 2, I would recommend you do it using PyCharm instead of Jupyter Notebook. 
 I was experiencing an extremely frustrating time until I finally realized the Python Interpretors 
 of my Jupyter Notebook and PyCharm were not the same, which was dangerous for the test method!
 
 
+## Below is the official README
 Welcome to Assignment 2!
 
 We'll be using PyTorch for this assignment. If you're not familiar with PyTorch, or if you would like to review some of the fundamentals of PyTorch, the PyTorch review session is posted on Canvas under Course Videos.  
