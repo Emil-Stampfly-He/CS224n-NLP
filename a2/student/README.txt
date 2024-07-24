@@ -1,4 +1,4 @@
-# For Assignment 2, I would recommend you do it using PyCharm instead of Jupyter Notebook. 
+## For Assignment 2, I would recommend you do it using PyCharm instead of Jupyter Notebook. 
 I was experiencing an extremely frustrating time until I finally realize the Python Interpretors 
 of my Jupyter Notebook and PyCharm were not the same, which is dangerous for the test method!
 
